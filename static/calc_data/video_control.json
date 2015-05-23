@@ -1,0 +1,119 @@
+[{
+	"title": "Кабельные работы с учетом затяжки аудио кабелей в гофротрубу и фиксацией на потолке / стене",
+	"info": false,
+	"coast": 1,
+	"icon": "star.png",
+	"_type": "select",
+	"options": [
+		{
+			"name": "Стандартный",
+			"_val": 2000
+		},
+		{
+			"name": "Стандартный2",
+			"_val": 3000
+		},
+		{
+			"name": "Стандартный3",
+			"_val": 4000
+		}
+	]
+},
+{
+	"title": "Срок заключения договора",
+	"info": "(В зависимости от срока заключения договора скидка увеличивается)",
+	"coast": 1,
+	"icon": "calendar.png",
+	"_type": "select",
+	"options": [
+		{
+			"name": "12 месяцев",
+			"_val": 1000
+		},
+		{
+			"name": "24 месяцев",
+			"_val": 3000
+		},
+		{
+			"name": "48 месяцев",
+			"_val": 4000
+		}
+	]
+},
+{
+	"title": "Число уличных видеокамер",
+	"info": false,
+	"icon": "camera.png",
+	"coast": 1000,
+	"_type": "input",
+	"options": false
+},
+{
+	"title": "Число внутренних видеокамер",
+	"info": false,
+	"icon": "camera2.png",
+	"coast": 1000,
+	"_type": "input",
+	"options": false
+},
+{
+	"title": "Число видеосерверов/видеорегистраторов",
+	"info": false,
+	"icon": "vidser.png",
+	"coast": 1000,
+	"_type": "input",
+	"options": false
+},
+{
+	"title": "Число удаленных рабочих мест оператора",
+	"info": "(При условии, что рабочие места располагаются в пределах территории компании)",
+	"icon": "komp.png",
+	"coast": 1000,
+	"_type": "input",
+	"options": false
+},
+{
+	"title": "Число блоков бесперебойного питания",
+	"info": false,
+	"icon": "connect.png",
+	"coast": 1000,
+	"_type": "input",
+	"options": false
+},
+{
+	"title": "Число приемников и передатчиков",
+	"info": false,
+	"icon": "wifi.png",
+	"coast": 1000,
+	"_type": "input",
+	"options": false
+},
+{
+	"title": "Укажите ближайший к вам город:",
+	"info": false,
+	"icon": "town.png",
+	"coast": 1,
+	"_type": "select",
+	"options": [
+		{
+			"name": "Волгоград",
+			"_val": 1000
+		},
+		{
+			"name": "Волгоград2",
+			"_val": 3000
+		},
+		{
+			"name": "Волгоград3",
+			"_val": 4000
+		}
+	]
+},
+{
+	"title": "Расстояние до указанного города (км)",
+	"info": false,
+	"icon": "geo.png",
+	"coast": 1000,
+	"_type": "input",
+	"options": false
+}]

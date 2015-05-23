@@ -1,0 +1,1759 @@
+{
+	"basic": [
+		{
+			"name": "Лайт Запад",
+			"packageID": "pid01",
+			"coast": 200,
+			"items": [
+				{
+					"name": "Название канала",
+					"chanelID": "001",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "002",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "003",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "004",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "005",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "007",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "011",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "012",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "013",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "014",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "015",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "016",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "017",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "018",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "019",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "020",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				}
+			]
+		}
+	],
+	"solo": [
+		{
+			"name": "Наш футбол Запад",
+			"packageID": "pid02",
+			"coast": 149,
+			"items": [
+				{
+					"name": "Название канала",
+					"chanelID": "1001",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1002",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1003",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1004",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1005",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1007",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1011",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1012",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1013",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1014",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1015",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1016",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1017",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1018",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1019",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "1020",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				}
+			]
+		},
+		{
+			"name": "Стартовый",
+			"packageID": "pid03",
+			"coast": 600,
+			"items": [
+				{
+					"name": "Название канала",
+					"chanelID": "2001",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2002",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2003",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2004",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2005",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2007",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2011",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2012",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2013",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2014",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2015",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2016",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2017",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2018",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2019",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "2020",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				}
+			]
+		}
+	],
+	"extra": [
+		{
+			"name": "VIP-кино Запад",
+			"packageID": "pid04",
+			"coast": 249,
+			"star": true,
+			"items": [
+				{
+					"name": "Название канала",
+					"chanelID": "3001",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3002",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3003",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3004",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3005",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3007",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3011",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3012",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3013",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3014",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3015",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3016",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3017",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3018",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3019",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "3020",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				}
+			]
+		},
+		{
+			"name": "Музыкальный",
+			"packageID": "pid05",
+			"coast": 59,
+			"items": [
+				{
+					"name": "Название канала",
+					"chanelID": "4001",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4002",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4003",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4004",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4005",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4007",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4011",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4012",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4013",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4014",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4015",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4016",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4017",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4018",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4019",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "4020",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				}
+			]
+		},
+		{
+			"name": "Супер-спорт Запад",
+			"packageID": "pid06",
+			"coast": 349,
+			"star": true,
+			"items": [
+				{
+					"name": "Название канала",
+					"chanelID": "5001",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5002",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5003",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5004",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5005",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5007",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5011",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5012",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5013",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5014",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5015",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5016",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5017",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5018",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5019",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "5020",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				}
+			]
+		},
+		{
+			"name": "Развлекательный",
+			"packageID": "pid07",
+			"coast": 39,
+			"items": [
+				{
+					"name": "Название канала",
+					"chanelID": "6001",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6002",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6003",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6004",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6005",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6007",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6011",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6012",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6013",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6014",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6015",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6016",
+					"groupID": "sport",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6017",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6018",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6019",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "6020",
+					"groupID": "music",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				}
+			]
+		},
+		{
+			"name": "Футбол Запад",
+			"packageID": "pid08",
+			"coast": 299,
+			"items": [
+				{
+					"name": "Название канала",
+					"chanelID": "7004",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "7005",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "7007",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "7008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "7008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "7009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "7010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "7009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "7010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				}
+			]
+		},
+		{
+			"name": "Детский",
+			"packageID": "pid09",
+			"coast": 69,
+			"star": true,
+			"items": [
+				{
+					"name": "Название канала",
+					"chanelID": "8004",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "8005",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "8007",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "8008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "8008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "8009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "8010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "8009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "8010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				}
+			]
+		},
+		{
+			"name": "Позновательный",
+			"packageID": "pid09",
+			"coast": 129,
+			"items": [
+				{
+					"name": "Название канала",
+					"chanelID": "9004",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "9005",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "9007",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "9008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "9008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "9009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "9010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "9009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "9010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				}
+			]
+		},
+		{
+			"name": "Ночной Запад",
+			"packageID": "pid10",
+			"coast": 129,
+			"items": [
+				{
+					"name": "Название канала",
+					"chanelID": "10004",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "10005",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "10007",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "10008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "10008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "10009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "10010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "10009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "10010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				}
+			]
+		},
+		{
+			"name": "Эгоист ТВ",
+			"packageID": "pid11",
+			"coast": 150,
+			"star": true,
+			"items": [
+				{
+					"name": "Название канала",
+					"chanelID": "12004",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "12005",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "12007",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "12008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "12008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "12009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "12010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "12009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "12010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				}
+			]
+		},
+		{
+			"name": "Viasat",
+			"packageID": "pid12",
+			"coast": 299,
+			"star": true,
+			"items": [
+				{
+					"name": "Название канала",
+					"chanelID": "13004",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "13005",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "13007",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "13008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "13008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "13009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "13010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "13009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "13010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				}
+			]
+		},
+		{
+			"name": "Amedia Premium HD",
+			"coast": 99,
+			"packageID": "pid13",
+			"items": [
+				{
+					"name": "Название канала",
+					"chanelID": "14004",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "14005",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "14007",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "14008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "14008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "14009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "14010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "14009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "14010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				}
+			]
+		},
+		{
+			"name": "Viasat Premium HD",
+			"coast": 399,
+			"packageID": "pid13",
+			"items": [
+				{
+					"name": "Название канала",
+					"chanelID": "15004",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "15005",
+					"groupID": "fun",
+					"link": "/chanelURL",
+					"logo": "images-(1).jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "15007",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "15008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "15008",
+					"groupID": "educational",
+					"link": "/chanelURL",
+					"logo": "AMEDIA_1.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "15009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "15010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "15009",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				},
+				{
+					"name": "Название канала",
+					"chanelID": "15010",
+					"groupID": "movie",
+					"link": "/chanelURL",
+					"logo": "images.jpg"
+				}
+			]
+		}
+	],
+	"grouped": [
+		{
+			"name": "Лайт Запад + все пакеты на 1 месяц",
+			"packageID": "pid1111",
+			"coast": 899,
+			"contain": [
+				{
+					"packType": "basic",
+					"items": ["pid01"]
+				},
+				{
+					"packType": "solo",
+					"items": "all"
+				},
+				{
+					"packType": "extra",
+					"items": "all"
+				}
+			]
+		},
+		{
+			"name": "Лайт Запад + все пакеты на 6 месяцев",
+			"packageID": "pid2222",
+			"coast": 799,
+			"contain": [
+				{
+					"packType": "basic",
+					"items": ["pid01"]
+				},
+				{
+					"packType": "solo",
+					"items": "all"
+				},
+				{
+					"packType": "extra",
+					"items": "all"
+				}
+			]
+		},
+		{
+			"name": "Лайт Запад + все пакеты на 12 месяцев",
+			"packageID": "pid33333",
+			"coast": 699,
+			"contain": [
+				{
+					"packType": "basic",
+					"items": ["pid01"]
+				},
+				{
+					"packType": "solo",
+					"items": "all"
+				},
+				{
+					"packType": "extra",
+					"items": "all"
+				}
+			]
+		}
+	]
+}
